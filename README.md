@@ -12,7 +12,7 @@ Data from internal storage
 `• How to use?`
 ```
 git clone https://github.com/MR-RIKI/TProtect
-cd Tprotect
+cd TProtect
 chmod 777 install
 ./install
 ```

@@ -13,8 +13,8 @@ Data from internal storage
 ```
 git clone https://github.com/MR-RIKI/TProtect
 cd Tprotect
-chmod 777 setup
-./setup
+chmod 777 install
+./install
 ```
 
 • after the process Normally type Tprotect on
